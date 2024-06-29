@@ -1,4 +1,4 @@
-##CalculatorPythonProgram##
+##SimpleCalculator##
 
 import tkinter as tk
 import tkinter.messagebox
