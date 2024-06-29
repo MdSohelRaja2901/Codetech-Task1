@@ -11,7 +11,7 @@ Duration: 15th June - 15th July 2024
 Mentor: SRAVANI GOUNI
 
 
-Description
+**DESCRIPTION**
 
 
 This project involves creating a basic calculator program using Python. The objective is to develop a user-friendly command-line tool that allows users to perform simple arithmetic operations. The program will prompt users to enter two numbers and select an operation from addition, subtraction, multiplication, or division. Based on the user's choice, the program will compute and display the result.
@@ -43,9 +43,10 @@ This project involves creating a basic calculator program using Python. The obje
 This simple yet effective calculator program showcases the power and versatility of Python in developing everyday utility tools.
 
 
-Conclusion
+**CONCLUSION**
 
 In conclusion, developing a basic calculator program in Python is a fundamental yet rewarding project that introduces core programming concepts and practices. By prompting users to input two numbers and select an arithmetic operation, the program provides an interactive way to perform essential calculations. The inclusion of input validation ensures robustness, while the ability to perform repeated calculations enhances user convenience. This project not only serves practical purposes but also lays a solid foundation for learning Python programming, offering opportunities for future enhancements and complexity. Through this exercise, users can gain confidence in their coding skills and appreciate the versatility of Python in creating everyday utility applications.
 
+**OUTPUT**
 
 ![Screenshot 2024-06-29 133754](https://github.com/MdSohelRaja2901/Codetech-Task1/assets/174174628/b0fc05ae-00a9-48e4-8e53-0a343ce6911c)
